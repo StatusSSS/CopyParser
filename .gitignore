@@ -1,0 +1,7 @@
+# Пример .gitignore
+node_modules/
+*.log
+.env
+.idea/
+.vscode/
+dist/

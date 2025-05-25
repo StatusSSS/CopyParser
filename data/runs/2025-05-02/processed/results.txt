@@ -1,0 +1,760 @@
+{
+    "Wallet Address": "12bzbUttLdzZdYXWUC15ZULe9BHYBfLRhA7bUJuLZ9xL",
+    "SOL Balance": "219.28",
+    "PnL 7d": "273.35%",
+    "Winrate": 0.5,
+    "Realized Profit 7d": "127299.65$",
+    "Last Active Timestamp": "2025-05-02 05:01:51",
+    "PnL_value": 273.34924843007417,
+    "SOL_value": 219.279509607
+}
+{
+    "Wallet Address": "B2TPu9PDq17u4JfcFbC2CTqJoRe5KgURvi68DP5t25iX",
+    "SOL Balance": "20.23",
+    "PnL 7d": "72.8%",
+    "Winrate": 1,
+    "Realized Profit 7d": "2877.05$",
+    "Last Active Timestamp": "2025-05-02 14:13:36",
+    "PnL_value": 72.79772095767247,
+    "SOL_value": 20.225298586
+}
+{
+    "Wallet Address": "EWE5zMrDYNn9ggTK7UPj694VzHSFcWRyeRAiCrHKhoeh",
+    "SOL Balance": "14.28",
+    "PnL 7d": "54.48%",
+    "Winrate": 0.7105263157894737,
+    "Realized Profit 7d": "17681.23$",
+    "Last Active Timestamp": "2025-05-02 14:10:01",
+    "PnL_value": 54.47750145627911,
+    "SOL_value": 14.280688791
+}
+{
+    "Wallet Address": "1gemMxvbi7m6T3wS6R3Wm4Lfa2Nry6v9BqabDf3LXbx",
+    "SOL Balance": "6.72",
+    "PnL 7d": "59.06%",
+    "Winrate": 0.5555555555555556,
+    "Realized Profit 7d": "1148.88$",
+    "Last Active Timestamp": "2025-05-02 14:24:56",
+    "PnL_value": 59.05548208104388,
+    "SOL_value": 6.718069502
+}
+{
+    "Wallet Address": "22hTeQnzUUHnLrKTz8TNkkLzHzhcCGqSpmRq7HfdwNRs",
+    "SOL Balance": "47.18",
+    "PnL 7d": "77.07%",
+    "Winrate": 0.5,
+    "Realized Profit 7d": "1943.32$",
+    "Last Active Timestamp": "2025-05-02 13:18:20",
+    "PnL_value": 77.06915503761351,
+    "SOL_value": 47.176370453
+}
+{
+    "Wallet Address": "6chgLRDe6M2v1UzLSfb9HcbPTVNaWWiKqfpSUsLBZjAN",
+    "SOL Balance": "15.02",
+    "PnL 7d": "55.53%",
+    "Winrate": 0.5454545454545454,
+    "Realized Profit 7d": "6756.56$",
+    "Last Active Timestamp": "2025-05-02 12:02:10",
+    "PnL_value": 55.52624166351596,
+    "SOL_value": 15.017853258
+}
+{
+    "Wallet Address": "EexxY4KRmtHpwBgnaWuqfX5fW7WxWW4MNYVPGJznEpiL",
+    "SOL Balance": "15.58",
+    "PnL 7d": "469.99%",
+    "Winrate": 0.8,
+    "Realized Profit 7d": "2020.53$",
+    "Last Active Timestamp": "2025-05-02 04:49:36",
+    "PnL_value": 469.98626588072227,
+    "SOL_value": 15.575951785
+}
+{
+    "Wallet Address": "6eqAgd3JKCJoowwwHMbvy3UWa7wyjpgDWxtzCCkeTLiC",
+    "SOL Balance": "27.31",
+    "PnL 7d": "56.79%",
+    "Winrate": 1,
+    "Realized Profit 7d": "2607.97$",
+    "Last Active Timestamp": "2025-05-02 14:30:52",
+    "PnL_value": 56.7936658770605,
+    "SOL_value": 27.31194168
+}
+{
+    "Wallet Address": "6fScQzRWeNqSotEbGiwshr764JzHxVxShkk18cBheUSq",
+    "SOL Balance": "8.44",
+    "PnL 7d": "116.31%",
+    "Winrate": 0.8,
+    "Realized Profit 7d": "885.76$",
+    "Last Active Timestamp": "2025-05-02 13:32:57",
+    "PnL_value": 116.31493082746522,
+    "SOL_value": 8.440183139
+}
+{
+    "Wallet Address": "EmfQhyBKyVwHPZEW44LtnUVG1E53rE3ZPhm7Qh4rkqta",
+    "SOL Balance": "44.09",
+    "PnL 7d": "60.18%",
+    "Winrate": 0.5,
+    "Realized Profit 7d": "3042.65$",
+    "Last Active Timestamp": "2025-05-02 10:47:18",
+    "PnL_value": 60.18162781987697,
+    "SOL_value": 44.093007296
+}
+{
+    "Wallet Address": "BRP1eszxnDYZAwb5yphEtEw6PnEj1W8qMv5KfN4Y2jZ1",
+    "SOL Balance": "10.00",
+    "PnL 7d": "62.48%",
+    "Winrate": 0.5,
+    "Realized Profit 7d": "2644.66$",
+    "Last Active Timestamp": "2025-05-02 07:45:47",
+    "PnL_value": 62.47975624346061,
+    "SOL_value": 10.003852686
+}
+{
+    "Wallet Address": "BWLACH7f5JgL43m5tnQUM3RCZDMQZCB1Hco7bcDns8yD",
+    "SOL Balance": "64.89",
+    "PnL 7d": "79.7%",
+    "Winrate": 0.8,
+    "Realized Profit 7d": "2357.63$",
+    "Last Active Timestamp": "2025-05-02 09:00:58",
+    "PnL_value": 79.6982804247404,
+    "SOL_value": 64.894559416
+}
+{
+    "Wallet Address": "2TeYSYZqJ1k4KfMuWVaBeAH62Q7uyS2kve8rguB71bLM",
+    "SOL Balance": "301.07",
+    "PnL 7d": "70.07%",
+    "Winrate": 0.5957446808510638,
+    "Realized Profit 7d": "16263.05$",
+    "Last Active Timestamp": "2025-05-02 14:28:21",
+    "PnL_value": 70.07363007954962,
+    "SOL_value": 301.069562126
+}
+{
+    "Wallet Address": "ExA1mQUvKcvhRP5JJBKspR5CyEJrPgz8LAJpXbNBNjYL",
+    "SOL Balance": "2259.49",
+    "PnL 7d": "58.05%",
+    "Winrate": 0.8,
+    "Realized Profit 7d": "43083.23$",
+    "Last Active Timestamp": "2025-05-02 10:38:57",
+    "PnL_value": 58.05282596566531,
+    "SOL_value": 2259.485838778
+}
+{
+    "Wallet Address": "BZoLsSi9hXu6JqN7RFy5XnyTLgZjHwARFSLF3pyc7g8f",
+    "SOL Balance": "96.22",
+    "PnL 7d": "131.93%",
+    "Winrate": 0.5294117647058824,
+    "Realized Profit 7d": "10268.58$",
+    "Last Active Timestamp": "2025-05-02 14:26:44",
+    "PnL_value": 131.93135178036982,
+    "SOL_value": 96.224964413
+}
+{
+    "Wallet Address": "78mFrmersq1MtXC67rjrStRqUdPUBJcZneeXbQfMjfcf",
+    "SOL Balance": "67.75",
+    "PnL 7d": "72.96%",
+    "Winrate": 0.6666666666666666,
+    "Realized Profit 7d": "3438.31$",
+    "Last Active Timestamp": "2025-05-02 03:42:48",
+    "PnL_value": 72.96229820443911,
+    "SOL_value": 67.750844521
+}
+{
+    "Wallet Address": "2dM6wMKS2is3jpwMueXvLfCgwveMiwB1iQNowkjx3x8S",
+    "SOL Balance": "730.06",
+    "PnL 7d": "52.94%",
+    "Winrate": 0.75,
+    "Realized Profit 7d": "36756.06$",
+    "Last Active Timestamp": "2025-05-02 12:39:52",
+    "PnL_value": 52.939925907643534,
+    "SOL_value": 730.057010123
+}
+{
+    "Wallet Address": "7BbYhLfW74zRHuxBKW2thtFspuWHYfXBuCqjHvGqpwp2",
+    "SOL Balance": "381.21",
+    "PnL 7d": "98.07%",
+    "Winrate": 0.635593220338983,
+    "Realized Profit 7d": "132062.19$",
+    "Last Active Timestamp": "2025-05-02 11:29:49",
+    "PnL_value": 98.07222351763005,
+    "SOL_value": 381.210086063
+}
+{
+    "Wallet Address": "2pAUaRN3XnkgHt1B9SckLpc2gQn2sSG6zSut8rXNDPpd",
+    "SOL Balance": "28.79",
+    "PnL 7d": "91.36%",
+    "Winrate": 0.5833333333333334,
+    "Realized Profit 7d": "4871.37$",
+    "Last Active Timestamp": "2025-05-02 14:06:33",solparse
+    "PnL_value": 91.35514856535411,
+    "SOL_value": 28.791337499
+}
+{
+    "Wallet Address": "FT5PER1bHjCPG1Ey7TT5cAA8ogAFi5C6j6yXr2SYbV8z",
+    "SOL Balance": "23.64",
+    "PnL 7d": "94.7%",
+    "Winrate": 1,
+    "Realized Profit 7d": "3314.60$",
+    "Last Active Timestamp": "2025-05-02 14:20:29",
+    "PnL_value": 94.70453989192073,
+    "SOL_value": 23.642448487
+}
+{
+    "Wallet Address": "7UyYNXy1YzZzaKcjoiHZ1fJfNrKCzCN4RXEgcWZoXuE6",
+    "SOL Balance": "10.03",
+    "PnL 7d": "55.07%",
+    "Winrate": 0.5645161290322581,
+    "Realized Profit 7d": "22125.10$",
+    "Last Active Timestamp": "2025-05-02 13:01:42",
+    "PnL_value": 55.07067489718545,
+    "SOL_value": 10.025794609
+}
+{
+    "Wallet Address": "BzBq6Dagcm5vhydqVQwi492q5U1JyYxsMEvAc1PBpDcW",
+    "SOL Balance": "12.00",
+    "PnL 7d": "112.67%",
+    "Winrate": 1,
+    "Realized Profit 7d": "690.18$",
+    "Last Active Timestamp": "2025-05-02 07:32:17",
+    "PnL_value": 112.6679833260531,
+    "SOL_value": 12.003559401
+}
+{
+    "Wallet Address": "C3RzLmMwqG67QVHcSDrif2u9pdNeLnZZDFqyHHF4pqJ2",
+    "SOL Balance": "19.41",
+    "PnL 7d": "537.03%",
+    "Winrate": 1,
+    "Realized Profit 7d": "1080.07$",
+    "Last Active Timestamp": "2025-05-02 12:28:53",
+    "PnL_value": 537.0326383811067,
+    "SOL_value": 19.413391556
+}
+{
+    "Wallet Address": "7YZbCeaJKinXvXfK1P6VSUWAF21rtcP7WBUJjRfYwX6J",
+    "SOL Balance": "21.05",
+    "PnL 7d": "63.68%",
+    "Winrate": 0.6,
+    "Realized Profit 7d": "2036.86$",
+    "Last Active Timestamp": "2025-05-02 14:44:45",
+    "PnL_value": 63.679062711335746,
+    "SOL_value": 21.052745638
+}
+{
+    "Wallet Address": "7aMgK5L4qEQ8Nyv6ZzhZi2B82NSSRnwb2NGJnNagA46D",
+    "SOL Balance": "180.94",
+    "PnL 7d": "69.84%",
+    "Winrate": 0.7425742574257426,
+    "Realized Profit 7d": "35439.02$",
+    "Last Active Timestamp": "2025-05-02 14:32:43",
+    "PnL_value": 69.84472283398893,
+    "SOL_value": 180.940328569
+}
+{
+    "Wallet Address": "FfK7JSe7kMZs7V1o822uKK2rufSviSSdQU8pD61YFqM4",
+    "SOL Balance": "25.33",
+    "PnL 7d": "156.85%",
+    "Winrate": 0.8,
+    "Realized Profit 7d": "1650.18$",
+    "Last Active Timestamp": "2025-05-02 13:16:15",
+    "PnL_value": 156.8492332194037,
+    "SOL_value": 25.330906924
+}
+{
+    "Wallet Address": "7gtMdQC9z7rmK1SpdW8q5WU1i5ACkEJ14Mni7EbCmXT2",
+    "SOL Balance": "11.49",
+    "PnL 7d": "97.93%",
+    "Winrate": 0.5,
+    "Realized Profit 7d": "1799.88$",
+    "Last Active Timestamp": "2025-05-02 14:54:09",
+    "PnL_value": 97.9317040028648,
+    "SOL_value": 11.485297739
+}
+{
+    "Wallet Address": "7k9f7yBDqNKF8uNNuv8tqRsTz4paAFznrbP6bLGCmLVR",
+    "SOL Balance": "166.57",
+    "PnL 7d": "115.6%",
+    "Winrate": 0.8,
+    "Realized Profit 7d": "4470.76$",
+    "Last Active Timestamp": "2025-05-02 14:09:25",
+    "PnL_value": 115.59929400590758,
+    "SOL_value": 166.571595129
+}
+{
+    "Wallet Address": "7nMRzMCG79ZYaReWU24ijDCg5y7V8ioh78NJiXN7NabM",
+    "SOL Balance": "5.21",
+    "PnL 7d": "62.42%",
+    "Winrate": 1,
+    "Realized Profit 7d": "691.45$",
+    "Last Active Timestamp": "2025-05-02 13:09:12",
+    "PnL_value": 62.42120338675781,
+    "SOL_value": 5.205109047
+}
+{
+    "Wallet Address": "7o2BYu1g7o3tZuwKNXE7qAtiwq6FWPXifRRBW6YexAQ1",
+    "SOL Balance": "7.42",
+    "PnL 7d": "61.0%",
+    "Winrate": 0.52,
+    "Realized Profit 7d": "5142.48$",
+    "Last Active Timestamp": "2025-05-02 14:29:24",
+    "PnL_value": 61.00219975852368,
+    "SOL_value": 7.417891878
+}
+{
+    "Wallet Address": "7oG4hDmFVVcNbco55efZogyUGr7ZtAtEJNKuxQBj6CmK",
+    "SOL Balance": "35.27",
+    "PnL 7d": "251.96%",
+    "Winrate": 0.5702479338842975,
+    "Realized Profit 7d": "345780.15$",
+    "Last Active Timestamp": "2025-05-02 14:22:35",
+    "PnL_value": 251.964230465589,
+    "SOL_value": 35.273639964
+}
+{
+    "Wallet Address": "FuSiuEY55wboCUQ5Db7tgJcJozMZbKcbe7VpoCCyTjyW",
+    "SOL Balance": "12.31",
+    "PnL 7d": "86.67%",
+    "Winrate": 0.5714285714285714,
+    "Realized Profit 7d": "3166.42$",
+    "Last Active Timestamp": "2025-05-02 14:54:49",
+    "PnL_value": 86.6742551736979,
+    "SOL_value": 12.310737156
+}
+{
+    "Wallet Address": "G2Jh18ra7KH826ptzgH3g6zRCqxbFygfAZfkVbtMhMaH",
+    "SOL Balance": "19.21",
+    "PnL 7d": "90.66%",
+    "Winrate": 1,
+    "Realized Profit 7d": "1368.42$",
+    "Last Active Timestamp": "2025-05-02 10:40:42",
+    "PnL_value": 90.66302297630095,
+    "SOL_value": 19.205259479
+}
+{
+    "Wallet Address": "84PA6SUwsHqB4U9Uc6Rp3UrqcqrWdGgAbw3L7RoiG4YQ",
+    "SOL Balance": "5.78",
+    "PnL 7d": "77.8%",
+    "Winrate": 0.7692307692307693,
+    "Realized Profit 7d": "3393.84$",
+    "Last Active Timestamp": "2025-05-02 15:02:41",
+    "PnL_value": 77.79656327259329,
+    "SOL_value": 5.775199943
+}
+{
+    "Wallet Address": "3Z88gLoZgTdYS8v66CNNtqRvnUui4gDuxzsq8hAntDix",
+    "SOL Balance": "5.02",
+    "PnL 7d": "75.71%",
+    "Winrate": 0.75,
+    "Realized Profit 7d": "1704.74$",
+    "Last Active Timestamp": "2025-05-02 14:30:54",
+    "PnL_value": 75.70958946126684,
+    "SOL_value": 5.024228424
+}
+{
+    "Wallet Address": "3c6juQi7rRSfsw6ppC88mdKNuvntJg7EP8sthaLgeZWR",
+    "SOL Balance": "24.02",
+    "PnL 7d": "60.61%",
+    "Winrate": 1,
+    "Realized Profit 7d": "2119.81$",
+    "Last Active Timestamp": "2025-05-02 14:31:16",
+    "PnL_value": 60.61121456925878,
+    "SOL_value": 24.022693492
+}
+{
+    "Wallet Address": "3diLgHoGz4Lxfyd3pRAx9s5UUixBjwT77mqYkJHyHAis",
+    "SOL Balance": "180.82",
+    "PnL 7d": "76.48%",
+    "Winrate": 0.55,
+    "Realized Profit 7d": "193301.99$",
+    "Last Active Timestamp": "2025-05-02 15:03:31",
+    "PnL_value": 76.48055216582861,
+    "SOL_value": 180.821584201
+}
+{
+    "Wallet Address": "CmiTMtcpMwQdpnv7Mc7sU6CVTrx93PTu8Atjum58VQHM",
+    "SOL Balance": "21.70",
+    "PnL 7d": "62.0%",
+    "Winrate": 1,
+    "Realized Profit 7d": "1766.67$",
+    "Last Active Timestamp": "2025-05-02 14:31:19",
+    "PnL_value": 61.99866161694973,
+    "SOL_value": 21.699272837
+}
+{
+    "Wallet Address": "3ou2mtYVZSQ4oi2QvFKMkSqEYPzhbdmj4eV3cbaiPZwW",
+    "SOL Balance": "37.11",
+    "PnL 7d": "89.03%",
+    "Winrate": 0.5,
+    "Realized Profit 7d": "881.92$",
+    "Last Active Timestamp": "2025-05-02 10:04:04",
+    "PnL_value": 89.02808565459001,
+    "SOL_value": 37.111741348
+}
+{
+    "Wallet Address": "Ctjk6aiH9rFpPejjfbUEVZi9FJZwg8ygT97QQoHGTYqo",
+    "SOL Balance": "554.86",
+    "PnL 7d": "78.59%",
+    "Winrate": 0.6764705882352942,
+    "Realized Profit 7d": "49347.49$",
+    "Last Active Timestamp": "2025-05-02 12:44:48",
+    "PnL_value": 78.59085679064923,
+    "SOL_value": 554.85919452
+}
+{
+    "Wallet Address": "Ctxhk46mXh2MUHKTGVgXLZjTHD4kpRoawcyhsgkQDnzE",
+    "SOL Balance": "30.15",
+    "PnL 7d": "55.99%",
+    "Winrate": 0.7142857142857143,
+    "Realized Profit 7d": "2704.30$",
+    "Last Active Timestamp": "2025-05-02 04:55:27",
+    "PnL_value": 55.986814604756994,
+    "SOL_value": 30.15141986
+}
+{
+    "Wallet Address": "GYJRJ54sE5GYcWQKcLHpfwnkw3ravWXTPUHaFecCPNkm",
+    "SOL Balance": "10.70",
+    "PnL 7d": "401.97%",
+    "Winrate": 1,
+    "Realized Profit 7d": "1198.59$",
+    "Last Active Timestamp": "2025-05-02 05:02:08",
+    "PnL_value": 401.96991676896266,
+    "SOL_value": 10.70148568
+}
+{
+    "Wallet Address": "CzXMLM7qmwn8UCauMP6LoNcuiycXC1Jfx1KMEUoqCorm",
+    "SOL Balance": "15.77",
+    "PnL 7d": "82.57%",
+    "Winrate": 0.5,
+    "Realized Profit 7d": "1240.66$",
+    "Last Active Timestamp": "2025-05-02 14:53:45",
+    "PnL_value": 82.56931914865845,
+    "SOL_value": 15.774783659
+}
+{
+    "Wallet Address": "8W5EuhHKqtQeioaBS8pHfBnyiE7CwoPSY9UDWFRuWc64",
+    "SOL Balance": "41.03",
+    "PnL 7d": "186.93%",
+    "Winrate": 0.6446280991735537,
+    "Realized Profit 7d": "177271.63$",
+    "Last Active Timestamp": "2025-05-02 14:22:36",
+    "PnL_value": 186.92950650080752,
+    "SOL_value": 41.032941406
+}
+{
+    "Wallet Address": "D54vjcEw62TnSV66DyxCbpSB19HABds58JDFbhLqB3oo",
+    "SOL Balance": "13.77",
+    "PnL 7d": "143.3%",
+    "Winrate": 0.5714285714285714,
+    "Realized Profit 7d": "2486.40$",
+    "Last Active Timestamp": "2025-05-02 11:34:11",
+    "PnL_value": 143.29898415144032,
+    "SOL_value": 13.774431279
+}
+{
+    "Wallet Address": "4BPPsJL4TVraqXMRxrm5iaRzFnJgJu21psKSG5YzrRx1",
+    "SOL Balance": "8.57",
+    "PnL 7d": "104.16%",
+    "Winrate": 1,
+    "Realized Profit 7d": "988.02$",
+    "Last Active Timestamp": "2025-05-02 03:53:54",
+    "PnL_value": 104.15891500501114,
+    "SOL_value": 8.573309663
+}
+{
+    "Wallet Address": "GmSm4h7DP1phZJsERSaK5UihbvgyXXjVdMhTxczDgnfv",
+    "SOL Balance": "160.43",
+    "PnL 7d": "59.93%",
+    "Winrate": 0.6794871794871795,
+    "Realized Profit 7d": "34413.64$",
+    "Last Active Timestamp": "2025-05-02 13:09:48",
+    "PnL_value": 59.931801813120146,
+    "SOL_value": 160.426195507
+}
+{
+    "Wallet Address": "GmxSw1i5srF8TA1Nr4rE5Pc7vbqUhLWsETmKUKQu4sz",
+    "SOL Balance": "32.02",
+    "PnL 7d": "71.15%",
+    "Winrate": 0.7708333333333334,
+    "Realized Profit 7d": "11628.20$",
+    "Last Active Timestamp": "2025-05-02 13:22:25",
+    "PnL_value": 71.15089216896422,
+    "SOL_value": 32.018041406
+}
+{
+    "Wallet Address": "4Eqa4UjeX8pJTNhRUAcsjddPyGddHqkTsTUaKJuPRZiV",
+    "SOL Balance": "36.31",
+    "PnL 7d": "537.85%",
+    "Winrate": 0.6115702479338843,
+    "Realized Profit 7d": "891013.69$",
+    "Last Active Timestamp": "2025-05-02 15:13:44",
+    "PnL_value": 537.8466463247526,
+    "SOL_value": 36.314109371
+}
+{
+    "Wallet Address": "4Fuga4i9QpPkWSjFjhZdJfhuVWLVWSwjwWi23auLgPnp",
+    "SOL Balance": "34.95",
+    "PnL 7d": "79.46%",
+    "Winrate": 0.4782608695652174,
+    "Realized Profit 7d": "4860.29$",
+    "Last Active Timestamp": "2025-05-02 15:08:39",
+    "PnL_value": 79.46064547329364,
+    "SOL_value": 34.953614743
+}
+{
+    "Wallet Address": "8kJyWTdwbMs78xmzVgHzDsuQKbKhgssPsK4Y87nfjz1h",
+    "SOL Balance": "7.31",
+    "PnL 7d": "87.81%",
+    "Winrate": 0.75,
+    "Realized Profit 7d": "1062.84$",
+    "Last Active Timestamp": "2025-05-02 15:16:39",
+    "PnL_value": 87.81435651834069,
+    "SOL_value": 7.306301832
+}
+{
+    "Wallet Address": "DJ7GvB5hYYKFh3vFW6nPUTdsUVLMoyiKEmkWoUf7KsNF",
+    "SOL Balance": "9.33",
+    "PnL 7d": "80.03%",
+    "Winrate": 0.5,
+    "Realized Profit 7d": "1338.04$",
+    "Last Active Timestamp": "2025-05-02 14:47:23",
+    "PnL_value": 80.02594463462624,
+    "SOL_value": 9.325909964
+}
+{
+    "Wallet Address": "GukC2DdmmDTDjmcKJ6GBqsvfCGxTCKUceFD4qceJ8a9w",
+    "SOL Balance": "24.44",
+    "PnL 7d": "236.98%",
+    "Winrate": 1,
+    "Realized Profit 7d": "2402.27$",
+    "Last Active Timestamp": "2025-05-02 13:42:15",
+    "PnL_value": 236.97843400386006,
+    "SOL_value": 24.442268797
+}
+{
+    "Wallet Address": "8pRfNXQfyy2oQcN59M1EW3HHenNxKcLM1T4kSN2uQ2bh",
+    "SOL Balance": "618.10",
+    "PnL 7d": "72.03%",
+    "Winrate": 0.75,
+    "Realized Profit 7d": "58622.14$",
+    "Last Active Timestamp": "2025-05-02 10:28:54",
+    "PnL_value": 72.0299953039489,
+    "SOL_value": 618.095939911
+}
+{
+    "Wallet Address": "4PvHcDUa5EtKeo33jbNZgHFepFPQekrqbnJBGjvCA5Yx",
+    "SOL Balance": "5.01",
+    "PnL 7d": "552.26%",
+    "Winrate": 0.5,
+    "Realized Profit 7d": "1104.51$",
+    "Last Active Timestamp": "2025-05-02 14:29:21",
+    "PnL_value": 552.258270805762,
+    "SOL_value": 5.012235414
+}
+{
+    "Wallet Address": "DV18rTZE5v179w9MGhf6rZXKSqMr2meCwEv4Y91cWf97",
+    "SOL Balance": "221.17",
+    "PnL 7d": "249.17%",
+    "Winrate": 1,
+    "Realized Profit 7d": "19252.41$",
+    "Last Active Timestamp": "2025-05-02 10:57:40",
+    "PnL_value": 249.17106136481974,
+    "SOL_value": 221.166693436
+}
+{
+    "Wallet Address": "DXUDwz9Wu5sSiomqRYkpiB95MrBuxLDRYSNXvCPDnGCM",
+    "SOL Balance": "44.99",
+    "PnL 7d": "62.95%",
+    "Winrate": 0.72,
+    "Realized Profit 7d": "44306.76$",
+    "Last Active Timestamp": "2025-05-02 03:42:27",
+    "PnL_value": 62.946223162167314,
+    "SOL_value": 44.985937012
+}
+{
+    "Wallet Address": "4WQxE8L7DwDrPKeGS8EWkvZcrfnvxn5NPozhG2x32g4M",
+    "SOL Balance": "156.04",
+    "PnL 7d": "56.28%",
+    "Winrate": 0.5096153846153846,
+    "Realized Profit 7d": "70421.90$",
+    "Last Active Timestamp": "2025-05-02 15:27:06",
+    "PnL_value": 56.284052986849844,
+    "SOL_value": 156.043204961
+}
+{
+    "Wallet Address": "H9WKi5LcLWX1XhnyhQhbRQMHRGwPXfHV5m5DXcT4cW4G",
+    "SOL Balance": "87.78",
+    "PnL 7d": "92.67%",
+    "Winrate": 1,
+    "Realized Profit 7d": "12170.04$",
+    "Last Active Timestamp": "2025-05-02 10:00:46",
+    "PnL_value": 92.67177630889245,
+    "SOL_value": 87.780390206
+}
+{
+    "Wallet Address": "4a7WtQ7dPCyoa6dU2E7apLiUFSYFYhPW4M831DNTxPLt",
+    "SOL Balance": "145.44",
+    "PnL 7d": "58.07%",
+    "Winrate": 0.6071428571428571,
+    "Realized Profit 7d": "34720.12$",
+    "Last Active Timestamp": "2025-05-02 14:42:11",
+    "PnL_value": 58.06700405661259,
+    "SOL_value": 145.436203295
+}
+{
+    "Wallet Address": "HB6tKS9zdKLq3gwoApiGwe1riGkT4BytfWDxtjHWbCVC",
+    "SOL Balance": "56.24",
+    "PnL 7d": "170.23%",
+    "Winrate": 0.5555555555555556,
+    "Realized Profit 7d": "24875.95$",
+    "Last Active Timestamp": "2025-05-02 13:19:08",
+    "PnL_value": 170.22564177944562,
+    "SOL_value": 56.239224689
+}
+{
+    "Wallet Address": "DdbfPuV9KiA6B5scyrJrJPVMxPWBN276Cvdkg4z9boEq",
+    "SOL Balance": "145.88",
+    "PnL 7d": "55.28%",
+    "Winrate": 0.5333333333333333,
+    "Realized Profit 7d": "61799.23$",
+    "Last Active Timestamp": "2025-05-02 15:25:15",
+    "PnL_value": 55.281203333722814,
+    "SOL_value": 145.87954307
+}
+{
+    "Wallet Address": "9DvmcHPPRVP5bnohAr5bGgYhbjbbpKaVtnopsECJnZNx",
+    "SOL Balance": "5.21",
+    "PnL 7d": "52.75%",
+    "Winrate": 0.5,
+    "Realized Profit 7d": "8167.32$",
+    "Last Active Timestamp": "2025-05-02 12:10:51",
+    "PnL_value": 52.749871335014916,
+    "SOL_value": 5.21104775
+}
+{
+    "Wallet Address": "DnVEAkmjuPfenM74Ni3xvXxffbyiXfUuU1mNJx8L9AA1",
+    "SOL Balance": "9.87",
+    "PnL 7d": "92.82%",
+    "Winrate": 1,
+    "Realized Profit 7d": "880.08$",
+    "Last Active Timestamp": "2025-05-02 03:53:54",
+    "PnL_value": 92.82249912013413,
+    "SOL_value": 9.872306119
+}
+{
+    "Wallet Address": "9KmebLerVC29gymqjNBxfCqc2Y3eF91ofMDjnYuskCys",
+    "SOL Balance": "15.14",
+    "PnL 7d": "161.38%",
+    "Winrate": 0.8333333333333334,
+    "Realized Profit 7d": "2122.58$",
+    "Last Active Timestamp": "2025-05-02 08:16:30",
+    "PnL_value": 161.38422187680226,
+    "SOL_value": 15.137763505
+}
+{
+    "Wallet Address": "DurNjKsoKfd38mnRLnbPQVahLgL7QJYoP1c4UXetrTz1",
+    "SOL Balance": "106.78",
+    "PnL 7d": "86.99%",
+    "Winrate": 0.6206896551724138,
+    "Realized Profit 7d": "9747.93$",
+    "Last Active Timestamp": "2025-05-02 14:20:27",
+    "PnL_value": 86.99110025789388,
+    "SOL_value": 106.784245004
+}
+{
+    "Wallet Address": "HTLEGhX1XEuTxByCwMeGvUvSYMG4xgbbdDpJhoKnfQNi",
+    "SOL Balance": "23.04",
+    "PnL 7d": "86.07%",
+    "Winrate": 1,
+    "Realized Profit 7d": "4105.54$",
+    "Last Active Timestamp": "2025-05-02 10:58:39",
+    "PnL_value": 86.06778911780266,
+    "SOL_value": 23.042306269
+}
+{
+    "Wallet Address": "HV9FEAycw5xZxv8MjTZuY31H6X3s5xwDJqbKGMKLeyU",
+    "SOL Balance": "28.51",
+    "PnL 7d": "63.92%",
+    "Winrate": 1,
+    "Realized Profit 7d": "4888.27$",
+    "Last Active Timestamp": "2025-05-02 15:32:35",
+    "PnL_value": 63.92293847010574,
+    "SOL_value": 28.50521285
+}
+{
+    "Wallet Address": "55JgKgTce188T2GLwitmx1LVU7iQ6NGzVNkAbu51zMPV",
+    "SOL Balance": "46.27",
+    "PnL 7d": "415.1%",
+    "Winrate": 0.6776859504132231,
+    "Realized Profit 7d": "748814.39$",
+    "Last Active Timestamp": "2025-05-02 14:22:36",
+    "PnL_value": 415.09954020843287,
+    "SOL_value": 46.265147464
+}
+{
+    "Wallet Address": "HYdsQhG9dcNbUVe6CjmuPkxfkfZMJV9MBXPBnriSRB7y",
+    "SOL Balance": "63.26",
+    "PnL 7d": "72.04%",
+    "Winrate": 0.5,
+    "Realized Profit 7d": "5439.27$",
+    "Last Active Timestamp": "2025-05-02 11:58:29",
+    "PnL_value": 72.04344207559821,
+    "SOL_value": 63.261369267
+}
+{
+    "Wallet Address": "5A8EDaUeoxkEuFGcDawA3Xhjhv4pUCdSEyHuA8NJXd6w",
+    "SOL Balance": "10.85",
+    "PnL 7d": "50.7%",
+    "Winrate": 0.4583333333333333,
+    "Realized Profit 7d": "13729.22$",
+    "Last Active Timestamp": "2025-05-02 13:34:41",
+    "PnL_value": 50.70439423876659,
+    "SOL_value": 10.85037827
+}
+{
+    "Wallet Address": "E6gTYLyK5KJ3g3keUe7nNRiZVtzMAVop8GVDjaE6KQe4",
+    "SOL Balance": "622.07",
+    "PnL 7d": "89.56%",
+    "Winrate": 0.5,
+    "Realized Profit 7d": "85109.98$",
+    "Last Active Timestamp": "2025-05-02 09:30:58",
+    "PnL_value": 89.56025330108264,
+    "SOL_value": 622.066282457
+}
+{
+    "Wallet Address": "Hxj48wzmQMfCkEhWyT1Gq3cQonWSe4JjcKmsQZqnHgiv",
+    "SOL Balance": "5.49",
+    "PnL 7d": "120.29%",
+    "Winrate": 1,
+    "Realized Profit 7d": "539.88$",
+    "Last Active Timestamp": "2025-05-02 13:39:20",
+    "PnL_value": 120.28902609029049,
+    "SOL_value": 5.48868354
+}
+{
+    "Wallet Address": "5fKfQSXggRxsR2U3TXSiyLBoBhnmQSPcxbvYXGSb6jap",
+    "SOL Balance": "12.67",
+    "PnL 7d": "69.43%",
+    "Winrate": 0.6666666666666666,
+    "Realized Profit 7d": "1454.52$",
+    "Last Active Timestamp": "2025-05-02 14:41:35",
+    "PnL_value": 69.43336176860718,
+    "SOL_value": 12.669740389
+}
+{
+    "Wallet Address": "5fY2VPNQhFxKNbbSfZHZqHCW7CGBNim3PyVXyMXGqeSZ",
+    "SOL Balance": "63.88",
+    "PnL 7d": "54.55%",
+    "Winrate": 0.7619047619047619,
+    "Realized Profit 7d": "3575.55$",
+    "Last Active Timestamp": "2025-05-02 15:55:13",
+    "PnL_value": 54.55457048345964,
+    "SOL_value": 63.876147994
+}
+{
+    "Wallet Address": "5gca64MnVt7DHmrwaBjtvVvuzo7zwQYMyQKJsqdEKaa3",
+    "SOL Balance": "174.97",
+    "PnL 7d": "93.2%",
+    "Winrate": 0.5172413793103449,
+    "Realized Profit 7d": "341932.54$",
+    "Last Active Timestamp": "2025-05-02 15:50:00",
+    "PnL_value": 93.20250779945913,
+    "SOL_value": 174.969307197
+}
